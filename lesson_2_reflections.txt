@@ -6,3 +6,6 @@ it’s more like a buffer zone, which facilitate users to commit a lot of files 
 
 How can you use the staging area to make sure you have one commit per logical change?
 use git diff —-staged to see if I commit once per logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+in a groupwork, everyone is capable for a part of the whole project, always, each person's work is independent, so we should create branches for one to modify the code in a project, then merge all sub-projects together to form a whole project.
