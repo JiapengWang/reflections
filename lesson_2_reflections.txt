@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+appears a repository for me using as version-control, to tell the computer, this file is my git repository
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+it’s more like a buffer zone, which facilitate users to commit a lot of files one time, so as to reduce the difficulty of commit files one by one 
+
