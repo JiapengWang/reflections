@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+sometimes, we need to teamwork on a project, restore all projects in one person's computer is not too convienient.
